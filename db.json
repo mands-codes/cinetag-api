@@ -1,0 +1,28 @@
+{"videos":
+[
+    {
+        "id": 1,
+        "titulo": "A noite dos mortos vivos",
+        "capa": "https://media.fstatic.com/rmHns3pgUBVIOGM2CN-Bkixz0Xk=/322x478/smart/filters:format(webp)/media/movies/covers/2013/11/a-noite-dos-mortos-vivos_t10540.jpg",
+        "link": "https://www.youtube.com/embed/-rVHuO6qcFU"
+    },
+    {
+        "id": 2,
+        "titulo": "Os pássaros (1963) - The Birds",
+        "capa": "https://m.media-amazon.com/images/I/91U6fpoJ-SL._AC_SL1500_.jpg",
+        "link": "https://www.youtube.com/embed/HYbOxERu5Ks"
+    },
+    {
+        "id": 3,
+        "titulo": "Olhos Famintos (2001)",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/a/ae/Jeepers_Creepers_capa.jpg",
+        "link": "https://www.youtube.com/embed/nlKMLbH1PwY"
+    },
+    {
+        "id": 4,
+        "titulo": "Olhos Famintos 2 (2004)",
+        "capa": "https://m.media-amazon.com/images/I/711EU1MH7pL._AC_SL1000_.jpg",
+        "link": "https://www.youtube.com/embed/RbgyJ8Vz4rE"
+    }
+]
+}
